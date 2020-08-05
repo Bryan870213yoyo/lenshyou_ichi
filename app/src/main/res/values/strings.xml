@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lenshyou_ichi</string>
+    <string name="add_some_thing_to_the_room">Add some thing to the room</string>
+    <string name="lick_me">LICK ME!</string>
+    <string name="product_name">Product name</string>
+    <string name="button">Button</string>
+    <string name="submit">submit</string>
+    <string name="owner_name">Owner name</string>
+    <string name="year_you_purchased">year you purchased</string>
+</resources>
